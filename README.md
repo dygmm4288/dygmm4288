@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📕 Skills
-- **Programing**  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+- **Programing**  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://camo.githubusercontent.com/99e9a537ee5a50cd797e8a9f6f41d5e76ec65981addb958448d1dfeb96bf85d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d6666663f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&amp;logo=node.js" style="max-width: 100%;">
 - **library**  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 
